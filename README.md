@@ -22,6 +22,7 @@ An introduction into the foundational skills in Git, Emacs, and Vim, essential t
 * Integrating Vim into your development environment
 
 <h2>How This Precourse Benefits You: </h2>
+
 **Become a Git Pro:** Confidently manage your code, track changes, and collaborate seamlessly.
 **Master Emacs or Vim:** Choose your weapon and customize it to your coding style.
 **Boost Your Productivity:** Work smarter, not harder, with efficient tools and workflows.
