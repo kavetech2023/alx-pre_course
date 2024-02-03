@@ -14,7 +14,26 @@ An introduction into the foundational skills in Git, Emacs, and Vim, essential t
       <li>
       Version control fundamentals: branching, merging, resolving conflicts
     </li>
-      
+    <li>
+      Staging, committing, and pushing changes
+    </li>
+    <li>
+      Collaborating effectively with Git workflows
+    </li>
+      <ul>
+  </li>
+
+          <li>
+    <ul>
+      <li>
+      Version control fundamentals: branching, merging, resolving conflicts
+    </li>
+    <li>
+      Staging, committing, and pushing changes
+    </li>
+    <li>
+      Collaborating effectively with Git workflows
+    </li>
       <ul>
   </li>
 </ul>
