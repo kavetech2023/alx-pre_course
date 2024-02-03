@@ -21,12 +21,11 @@ An introduction into the foundational skills in Git, Emacs, and Vim, essential t
 * Text manipulation and automation with Vimscript
 * Integrating Vim into your development environment
 
-<h2>How This Precourse Benefits You: </h2>
+<h2>Additional Information:</h2>
 
-* **Become a Git Pro:** Confidently manage your code, track changes, and collaborate seamlessly.
-* **Master Emacs or Vim:** Choose your weapon and customize it to your coding style.
-* **Boost Your Productivity:** Work smarter, not harder, with efficient tools and workflows.
-* **Lay the Foundation for Success:** Gain essential skills sought after by software engineers.
+* __Author:__ Kevin Kavete
+* __License:__
+* __Dependencies:__
 
 
 
