@@ -1,4 +1,4 @@
-<h1>Alx Precourse: Mastering Git, Emacs, and Vim.</h1>
+<h1>ALX Precourse: Mastering Git, Emacs, and Vim.</h1>
 
 <h2>What is this about? </h2>
 
