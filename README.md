@@ -5,7 +5,8 @@
 An introduction into the foundational skills in Git, Emacs, and Vim, essential tools for navigating the modern development landscape.
 
 <h2>What You'll Learn</h2>
-<b>Git: </b>
+
+<b>Git:</b>
 * Version control fundamentals: branching, merging, resolving conflicts
 * Staging, committing, and pushing changes
 * Collaborating effectively with Git workflows
